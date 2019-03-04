@@ -1,5 +1,5 @@
 # NamesDatabase
-A database of the popularity of UK and US names. Includes rank, percentile and more. Only names which have occurred at 5 times are included, this is due to a limitation of the raw data provided.
+A database of the popularity of UK and US names. Includes rank, percentile and more. Only names which have occurred at least 5 times are included, this is due to a limitation of the raw data provided.
 
 Huge thanks to https://github.com/OpenGenderTracking/globalnamedata and data.gov for providing the raw data.
 
