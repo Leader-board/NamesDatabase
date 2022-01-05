@@ -3,6 +3,6 @@ A database of the popularity of UK and US names. Includes rank, percentile and m
 
 Huge thanks to https://github.com/OpenGenderTracking/globalnamedata and data.gov for providing the raw data.
 
-A non-processed Access variant (including popularity per name by year) can be found here: https://1drv.ms/u/s!Auje7TcceXJljYoDiKcAyTFQBbV8dg
+A non-processed Access variant (including popularity per name by year) is available as a [GitHub release](https://github.com/Leader-board/NamesDatabase/releases/tag/raw_data).
 
 This database is licensed under CC BY SA 4.0.
